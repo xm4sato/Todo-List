@@ -1,6 +1,6 @@
 import { colors } from "../../../UI/color";
-import type { ProjectsListType, SimpleList } from "../Types"
-import IconGenerator from "../utils/IconsGenerator";
+import type { ProjectsListType, SimpleList } from "@/Types/Projects";
+import IconGenerator from "@/utils/IconsGenerator";
 
 import AccountBalanceIcon from "@mui/icons-material/AccountBalance";
 import AccountBoxIcon from "@mui/icons-material/AccountBox";

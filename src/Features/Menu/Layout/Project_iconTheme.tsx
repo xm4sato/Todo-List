@@ -1,5 +1,5 @@
 import TypoGraphy from "../../../UI/TypoGraphy";
-import type { ProjectType, SimpleList } from "../Types";
+import type { ProjectType, SimpleList } from "@/Types/Projects";
 
 /**
  * Props interface for the Project_iconTheme component.

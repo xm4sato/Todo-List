@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import { generateShortId } from "../helpers/id_generator";
-import { type ProjectType } from "../Types";
+import { generateShortId } from "@/helpers/id_generator";
+import { type ProjectType } from "@/Types/Projects";
 
 /**
  * Custom hook to manage isolated local state parameters for drafting new projects.

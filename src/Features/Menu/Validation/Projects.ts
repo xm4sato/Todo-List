@@ -1,6 +1,6 @@
 import { z } from "zod";
-import type { ProjectType } from "../Types";
-import { ProjectSchema } from "../Schema/Zod";
+import type { ProjectType } from "@/Types/Projects";
+import { ProjectSchema } from "@/Schema/ProjectShcema";
 
 /**
  * Interface definition representing formatted validation error payloads.

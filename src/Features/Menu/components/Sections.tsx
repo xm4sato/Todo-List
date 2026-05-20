@@ -1,7 +1,7 @@
 import type { JSX } from "react";
 
-import IconGenerator from "../utils/IconsGenerator";
-import type { SectionsType } from "../Types";
+import IconGenerator from "@/utils/IconsGenerator";
+import type { SectionsType } from "@/Types/Projects";
 import { colors } from "../../../UI/color";
 
 

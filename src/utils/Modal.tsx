@@ -1,5 +1,5 @@
 import { Box, Modal } from '@mui/material';
-import { useStore } from '../store'; 
+import { useStore } from '../store/Projects'; 
 
 /**
  * Interface definition for the {@link BasicModal} component props.

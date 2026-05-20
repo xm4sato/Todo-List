@@ -1,5 +1,5 @@
-import { type ProjectType } from "../Types";
-import { useStore } from "../store";
+import { type ProjectType } from "@/Types/Projects";
+import { useStore } from "@/store/Projects";
 import TextFieldUI from "../../../UI/TextField";
 import TypoGraphy from "../../../UI/TypoGraphy";
 import ButtonUI from "../../../UI/ButtonUI";

@@ -1,9 +1,9 @@
-import { type ProjectType } from "../Types";
+import { type ProjectType } from "@/Types/Projects";
 import { type JSX } from "react";
 import { Add, Work } from "@mui/icons-material";
-import BasicModal from "../utils/Modal";
-import { useStore } from "../store";
-import { ProjectModalContext } from "../ModalContext/ProjectModal";
+import BasicModal from "@/utils/Modal";
+import { useStore } from "@/store/Projects";
+import { ProjectModalContext } from "../Layout/ProjectModal";
 import { colors } from "../../../UI/color";
 import { iconsList } from "../constants/SideMenu";
 

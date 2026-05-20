@@ -1,6 +1,6 @@
 import { create } from "zustand";
-import type { ProjectType, ProjectStoreType } from "../Types";
-import { toastSuccess } from "../../../UI/Toastify";
+import type { ProjectType, ProjectStoreType } from "../Types/Projects";
+import { toastSuccess } from  "@/UI/Toastify";
 // import { ProjectValidation } from "../Validation/Projects";
 
 /**
